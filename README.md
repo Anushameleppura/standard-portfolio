@@ -5,7 +5,7 @@ A modern and responsive personal portfolio website built to showcase projects, s
 🚀 Live Demo
 
 🌐 Portfolio Website:
-Standard Portfolio Live Demo
+https://standard-portfolio-three.vercel.app/
 
 📌 Features
 Responsive modern UI
